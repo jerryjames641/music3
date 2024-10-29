@@ -22,20 +22,20 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Amazing",
-    artist: "Inna",
+    name: "Tamally Maak",
+    artist: "Amr Diab",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song 2.mp3"
   },
   {
-    name: "Get a way",
-    artist: "Maxx",
+    name: "Tune Jo Na Kaha",
+    artist: "Mohit Chauhan",
     image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song 6.mp3"
   },
   {
-    name: "Mr Saxobeat",
-    artist: "Inna",
+    name: "Mohabbat Barsa De",
+    artist: "Arjun, Arijit, Shilpa",
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song 8.mp3",
   },
