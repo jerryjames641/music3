@@ -34,7 +34,7 @@ let track_list = [
     path: "song 6.mp3"
   },
   {
-    name: "Mohabbat Barsa De",
+    name: "Mohabbat Barsa",
     artist: "Arjun, Arijit, Shilpa",
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song 8.mp3",
