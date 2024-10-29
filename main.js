@@ -28,7 +28,7 @@ let track_list = [
     path: "song 2.mp3"
   },
   {
-    name: "Tune Jo Na Kaha",
+    name: "Tune Jo Na",
     artist: "Mohit Chauhan",
     image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song 6.mp3"
